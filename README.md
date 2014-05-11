@@ -1,3 +1,5 @@
+## This directory includes the finished assignment 1
+
 ## Introduction
 
 This assignment uses data from
